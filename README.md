@@ -66,6 +66,9 @@ We will use the data that’s available on YELP and use that to build a robust s
 # **DEPLOYMENT DETAILS:**
 ![DEPLOYMENT DETAILS:](Deployment_V1.jpg)
 
+# **STREAMLIT + HEROKU APP:**
+- <https://desolate-eyrie-73201.herokuapp.com/>
+
 # **REFERENCES:**
 - <https://docs.streamlit.io/>
 - <https://gilberttanner.com/blog/deploying-your-streamlit-dashboard-with-heroku>
