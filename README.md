@@ -66,3 +66,9 @@ We will use the data that’s available on YELP and use that to build a robust s
 # **DEPLOYMENT DETAILS:**
 ![DEPLOYMENT DETAILS:](Deployment_V1.jpg)
 
+# **REFERENCES:**
+- <https://docs.streamlit.io/>
+- <https://gilberttanner.com/blog/deploying-your-streamlit-dashboard-with-heroku>
+- <https://github.com/Data-Science-Community-SRM/Food-Recommendation-System>
+- <https://medium.com/@sumith.gannarapu/restaurant-recommendation-system-b52911d1ed0b>
+
